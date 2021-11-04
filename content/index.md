@@ -3,9 +3,11 @@ Title: Home
 Description: This is our index page.
 ---
 
-Home page
+About me
 ==========================
 
-The source for this page is in `content/index.md`.
+Hello and welcome to my first site done with Pico.
 
-This is a sample home page written in markdown with some frontmatter defined.
+My name is Tomas and this is a school project focusing on design.
+
+![laptop](image/laptop-coffe.jpg "Title")
