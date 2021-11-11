@@ -1,0 +1,52 @@
+@mixin header-footer-flex {
+    display: flex;
+    align-items: center;
+    background-color: $background-alternative-color;
+    padding: 0.4rem;
+}
+
+html {
+    margin: auto;
+    max-width: 64rem;
+}
+
+.header {
+    @include header-footer-flex;
+
+    .nav {
+        margin-left: auto;
+    }
+}
+
+.site-header {
+    //@include header-footer-flex;
+    display: flex;
+    align-items: center;
+
+    .logo {
+        width: 30%;
+    }
+
+    .title {
+        padding: 1rem;
+    }
+}
+
+.main {
+    background-color: $background-color;
+    padding: 0.4rem;
+}
+
+.footer {
+    @include header-footer-flex;
+}
+
+.social {
+    margin-left: auto;
+
+    a {
+        font-size: $font-size * 1.5;
+        padding-inline: 0.8rem;
+        text-decoration: none;
+    }
+}

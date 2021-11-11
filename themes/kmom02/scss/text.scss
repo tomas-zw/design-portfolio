@@ -1,0 +1,22 @@
+* {
+    color: $font-color;
+}
+
+body {
+    font-size: $font-size;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $header-font;
+}
+
+p {
+    font-family: $main-font;
+    line-height: $line-height;
+    margin-bottom: $magic-number;
+}

@@ -1,0 +1,19 @@
+img {
+    border-radius: 5px;
+}
+
+.header {
+    img {
+        width: 100%;
+        //max-width: 30%;
+        height: auto;
+    }
+}
+
+.main {
+    img {
+        //width: 100%;
+        max-width: 100%;
+        height: auto;
+    }
+}
