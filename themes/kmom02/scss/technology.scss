@@ -23,6 +23,23 @@
 .aside {
     grid-column: 1 / 2;
     grid-row: 1 / -1;
+    
+    ul {
+        padding-top: 1em;
+    }
+
+    li {
+        padding-bottom: 0.3em;
+        list-style-type: none;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
 }
 
 .main-content {

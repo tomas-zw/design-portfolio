@@ -6472,12 +6472,12 @@ readers do not read off random characters that represent icons */
 }
 .grid-box {
   border-radius: 5px;
-  border: 1px solid #6E7173;
+  border: 1px solid #6e7173;
   text-align: center;
   margin: 15px;
 }
 .grid-box h2 {
-  background-color: #6E7173;
+  background-color: #6e7173;
   color: #f8f8ff;
   margin-top: 0;
   padding: 5px;
@@ -6519,6 +6519,19 @@ readers do not read off random characters that represent icons */
 .aside {
   grid-column: 1/2;
   grid-row: 1/-1;
+}
+.aside ul {
+  padding-top: 1em;
+}
+.aside li {
+  padding-bottom: 0.3em;
+  list-style-type: none;
+}
+.aside a {
+  text-decoration: none;
+}
+.aside a:hover {
+  text-decoration: underline;
 }
 
 .main-content {
@@ -6629,7 +6642,7 @@ code {
 
 pre {
   padding: 0 1em;
-  border: 1px solid #6E7173;
+  border: 1px solid #6e7173;
   border-radius: 0.3em;
   background: #f7f7f7;
 }
