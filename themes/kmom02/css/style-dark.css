@@ -6478,7 +6478,7 @@ readers do not read off random characters that represent icons */
 }
 .grid-box h2 {
   background-color: #6e7173;
-  color: #f8f8ff;
+  color: #232425;
   margin-top: 0;
   padding: 5px;
   font-weight: 500;
@@ -6541,13 +6541,13 @@ readers do not read off random characters that represent icons */
 html {
   margin: auto;
   max-width: 64rem;
-  background-color: #fff;
+  background-color: #000;
 }
 
 .header {
   display: flex;
   align-items: center;
-  background-color: #b4b4b4;
+  background-color: #232425;
   padding: 0.4rem;
 }
 .header .nav {
@@ -6566,14 +6566,14 @@ html {
 }
 
 .main {
-  background-color: #f9fafc;
+  background-color: #4b4c4d;
   padding: 0.4rem;
 }
 
 .footer {
   display: flex;
   align-items: center;
-  background-color: #b4b4b4;
+  background-color: #232425;
   padding: 0.4rem;
 }
 
@@ -6587,7 +6587,7 @@ html {
 }
 
 * {
-  color: #000;
+  color: #f8f8f8;
 }
 
 body {
@@ -6617,7 +6617,7 @@ code strong {
 }
 
 .nav a {
-  color: #000;
+  color: #f8f8f8;
 }
 
 img {

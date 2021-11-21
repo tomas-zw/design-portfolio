@@ -20,3 +20,17 @@ p {
     line-height: $line-height;
     margin-bottom: $magic-number;
 }
+
+code {
+    color: $font-code-color;
+    
+    strong {
+        color: $font-code-color;
+    }
+}
+
+.nav {
+    a {
+        color: $font-color;
+    }
+}

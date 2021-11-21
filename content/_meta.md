@@ -10,4 +10,12 @@ Social:
       url: https://sass-lang.com
       icon: fab fa-sass
 
+    - title: Dark Mode
+      url: ?action=theme
+      icon: fas fa-adjust
+
+    - title: Destroy Session
+      url: ?action=session_destroy
+      icon: fas fa-trash-alt
+
 ---
