@@ -11,6 +11,10 @@ html {
     background-color: $backgrund-site;
 }
 
+.hidden {
+    display: none !important;
+}
+
 .header {
     @include header-footer-flex;
 

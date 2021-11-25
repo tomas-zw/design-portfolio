@@ -6544,6 +6544,10 @@ html {
   background-color: #fff;
 }
 
+.hidden {
+  display: none !important;
+}
+
 .header {
   display: flex;
   align-items: center;
