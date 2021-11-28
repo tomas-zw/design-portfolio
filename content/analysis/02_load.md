@@ -1,23 +1,31 @@
 ---
-Title: load
-Description: (kmom05)
+Title: Load
+Description: Utvärdera laddningstid och användbarhet (kmom05)
 Template: index 
 ---
 
-Titel på rapporten
+Webbplatsers laddningstid och användbarhet.
 =======================
 
-Skriv en eller två rader om vad uppgiften handlar om.
+Laddningstid och användbarhet på tre webbsidor dokumenteras och analyseras.
 
 Urval
 -----------------------
 
-Berätta vilka webbplatser du valt att undersöka och varför eller hur du gick tillväga när du gjorde ditt urval.
+Att komma på vad man ska laga till middag är inte lätt så jag har valt tre webbplatser med recept och mat-inspiration.  
+Jag valde dom tre översta resultaten vid en google sökning på "recept".
+
+[koket.se](https://www.koket.se/)  
+[mathem.se](https://www.mathem.se/)  
+[arla.se](https://www.arla.se/recept/)
 
 Metod
 -----------------------
 
-Berätta kort om din "metod", hur du gör för att utföra undersökningen. Berätta om du använder något speciellt verktyg.
+Google Pagespeed används för att mäta sidorna både på både Mobile och Desktop.  
+Webbläsarens dev-tools används för att mäta laddningstid, sidans totala storlek 
+och antalet resurser som laddas in.  
+För varje sida görs tre mätningar med dev-tools och medelvärdet används.
 
 Resultat
 -----------------------
