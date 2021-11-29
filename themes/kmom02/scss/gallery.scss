@@ -10,7 +10,8 @@
         justify-self: center;
     }
 
-    img {
+    img,
+    .embed-container {
         border-radius: 5px;
         border: 1px solid $border-color;
     }

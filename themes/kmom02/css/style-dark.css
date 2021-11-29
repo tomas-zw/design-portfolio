@@ -6684,7 +6684,8 @@ pre code {
   grid-column: 1/-1;
   justify-self: center;
 }
-.grid img {
+.grid img,
+.grid .embed-container {
   border-radius: 5px;
   border: 1px solid #6e7173;
 }
