@@ -6672,3 +6672,28 @@ pre code {
   overflow-x: auto;
   line-height: 1.4;
 }
+
+.grid {
+  display: grid;
+  gap: 1em;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto;
+  margin-bottom: 15px;
+}
+.grid h1 {
+  grid-column: 1/-1;
+  justify-self: center;
+}
+.grid img {
+  border-radius: 5px;
+  border: 1px solid #6e7173;
+}
+
+@media screen and (max-width: 700px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+.gallery {
+  margin: 5px;
+}
