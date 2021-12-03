@@ -6695,6 +6695,10 @@ pre code {
     grid-template-columns: 1fr;
   }
 }
+.load-img img {
+  border: 1px solid #6e7173;
+}
+
 .gallery {
   margin: 5px;
 }
@@ -6714,6 +6718,10 @@ pre code {
   position: absolute;
   top: 0;
   left: 0;
+  width: 100%;
+  height: 100%;
+}
+.embed-container .google-sheet {
   width: 100%;
   height: 100%;
 }
