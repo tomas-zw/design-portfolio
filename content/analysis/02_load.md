@@ -52,8 +52,8 @@ På mobilsidan är det väldigt mycket långsammare och det är en stor förbät
 
 Tog lite längre tid att ladda in men å andra sidan så möts man av det är man är där för, recept och mat förslag inte bara massa reklam. 
 
-Hastigheten på desktop hade drastiskt kunnat reduceras med hjälp av att använda bilder med rätt storlek och att skickar bilderna i ett modernare bildformat till dem webbläsarna som stöder det.  
-På mobilsidan hade samma förbättringar och att även reducera javaskript som inte används reducerat laddningstiderna avsevärt.
+Hastigheten på desktop hade kunnat reduceras med hjälp av att använda bilder med rätt storlek och att skickar bilderna i ett modernare bildformat till dem webbläsarna som stöder det.  
+På mobilsidan hade samma förbättringar och att även reducera javaskript som inte används reducerat laddningstiderna.
 ***
 
 
@@ -78,14 +78,15 @@ som kan göras.
 <iframe class="google-sheet" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4xbCuCfT4BoDnBqTJpxAh19o64MXV8RiBHPIeGLpqF-bQ3iUUI1BKXyFQtDHVqW7B1qA4uDcA3Z8V/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
 
-**koket.se** hamnar i mitten av de 3 testade sidorna när det kommer till laddningstid och mängd data som laddas. En förbättring är att reducera javaskript som inte används.
+**koket.se** hamnar i mitten av de 3 testade sidorna när det kommer till laddningstid och mängd data som laddas. En förbättring är att reducera javaskript som inte används.  
+Om man går direkt till sidan med receptet så är denna sidan snabbast av dom tre.  
 
 **Mathem.se** är den snabbaste sidan när det kommer till laddningstid. På desktop vyn är den sidan som skickar mest data och den skickar även mer data på mobil mobil vyn än desktop vyn. En stor förbättring hadde varit att använda bilder med rätt storlek och att reducera javaskript som inte har använts är en annan förbättring.
 
 **Arla.se** är den långsammaste sidan när det  kommer till laddningstid. Fast på desktop så är den sidan som laddar minst mängd data.  
 Men på mobil vyn händer något konstigt och mängden data mer än fyrdubblas. Att reducera javaskript som inte används är en förbättring men den absolut största förbättringen hade varit att skicka bilderna i rätt storlek.
 
-Den generella förbättringen på alla 3 sidorna är att reducera mängden javaskript som inte används och på 2/3 sidor är bilderna alldeles för stora.
+Den generella förbättringen på alla 3 sidorna är att reducera mängden javaskript som inte används och på 2/3 sidor är bilderna i flera fall alldeles för stora.
 
 Sidorna rankat baserat på speed index samt mängd data som laddas ner.
 1. koket.se
