@@ -6758,11 +6758,6 @@ pre code {
   grid-row: 1/1;
   justify-self: center;
   overflow: hidden;
-  /* h1 {
-      margin: 0;
-      padding: 0;
-      font-size: 1.5em;
-  } */
 }
 
 .main-color {
@@ -6771,7 +6766,7 @@ pre code {
 }
 
 .alt-color {
-  color: #f00;
+  color: #C21E56;
   font-size: 1.4em;
 }
 
@@ -6807,11 +6802,6 @@ pre code {
   grid-row: 7/8;
   justify-self: center;
   overflow: hidden;
-  /* h1 {
-      margin: 0;
-      padding: 0;
-      font-size: 1.5em;
-  } */
 }
 
 .pico {

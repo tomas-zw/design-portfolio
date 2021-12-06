@@ -6,9 +6,9 @@ Template: newHome
 
 
 <div class="border-main">
-    <h1>NAME :</h1>
+    <h1>Tomas</h1>
 </div>
-<p class="name"><span class="main-color">T</span>omas</p>
+<p class="name"><span class="main-color">N</span>ame</p>
 <p class="birth"><span class="main-color">K</span>rakow</p>
 <p class="age">4<span class="main-color">3</span></p>
 <p class="location"><span class="main-color">K</span>arlskrona</p>
