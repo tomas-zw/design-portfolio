@@ -76,8 +76,7 @@ som kan göras.
 
 <div class="embed-container">
 <iframe class="google-sheet" title="page-data" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4xbCuCfT4BoDnBqTJpxAh19o64MXV8RiBHPIeGLpqF-bQ3iUUI1BKXyFQtDHVqW7B1qA4uDcA3Z8V/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-<!-- <iframe class="google-sheet" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4xbCuCfT4BoDnBqTJpxAh19o64MXV8RiBHPIeGLpqF-bQ3iUUI1BKXyFQtDHVqW7B1qA4uDcA3Z8V/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-</div> -->
+</div>
 
 **koket.se** hamnar i mitten av de 3 testade sidorna när det kommer till laddningstid och mängd data som laddas. En förbättring är att reducera javaskript som inte används.  
 Om man går direkt till sidan med receptet så är denna sidan snabbast av dom tre.  
