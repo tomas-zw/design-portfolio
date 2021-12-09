@@ -33,7 +33,7 @@ hitta eventuella färgscheman.
 Resultat
 -----------------------
 
-#### [Max Böck](https://mxb.dev/)  
+### [Max Böck](https://mxb.dev/)  
 
 1. Webbplatsens mål och syfte.  
 
@@ -66,7 +66,7 @@ för att ge mer liv till texten och göra den mindre monoton.
 
 ***
 
-#### [CSS { In Real Life }](https://css-irl.info/)  
+### [CSS { In Real Life }](https://css-irl.info/)  
 
 1. Webbplatsens mål och syfte.  
 
@@ -106,7 +106,7 @@ Jag utmanar er till att läsa minst tre ord utan att **råka** läsa "posts" på
 
 ***
 
-#### [Samuel Kraft](https://samuelkraft.com/)  
+### [Samuel Kraft](https://samuelkraft.com/)  
 
 1. Webbplatsens mål och syfte.  
 
@@ -154,7 +154,7 @@ Slutsatsen jag kan dra från detta är att det viktiga är inte **att** använda
 
 ***
 
-#### Denna sidan.
+### Denna sidan.
 
 
 2. Almänna kännetecken och design.  
