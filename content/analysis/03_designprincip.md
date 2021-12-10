@@ -177,6 +177,17 @@ sidan och skapar nån form av psudo-frame.
 Vissa av sidorna använder ett grid för att ytterligare separera innehåll. 
 I övrigt är designen densamma.
 
+6. Eventuella uppdateringar?
+
+Oj, hur långt är ett snöre?  
+Lite så känner jag för att försöka svara på den frågan.
+
+Antingen hade jag kunnat lägga på ett stort lager med polish på den befintliga 
+designen och det hade gett en proper men intetsägande sida.  
+Eller (med mer tid och kunskap) så hade jag velat prova att experimentera med 
+överdrivna skalor och spacing (jag gillade verkligen [Max Böck](https://mxb.dev/) 
+sida) och se om jag hade kunnat skapa samma känsla av självsäkerhet och lugn.
+
 Referenser
 -----------------------
 
